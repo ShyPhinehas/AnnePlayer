@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AnnePlayer_Example' do
+  pod 'AnnePlayer', :path => '../'
+
+  target 'AnnePlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
