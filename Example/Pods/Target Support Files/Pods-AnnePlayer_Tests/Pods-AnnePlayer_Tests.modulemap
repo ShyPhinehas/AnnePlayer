@@ -1,0 +1,6 @@
+framework module Pods_AnnePlayer_Tests {
+  umbrella header "Pods-AnnePlayer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

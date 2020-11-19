@@ -1,0 +1,16 @@
+PODS:
+  - AnnePlayer (0.1.0)
+
+DEPENDENCIES:
+  - AnnePlayer (from `../`)
+
+EXTERNAL SOURCES:
+  AnnePlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnnePlayer: 5341b96a22b17ac43faacb5bc87f31f47f44c121
+
+PODFILE CHECKSUM: 8d989f14a0943a08d8b9e4cb1ed6ef3a42dc2bae
+
+COCOAPODS: 1.8.4

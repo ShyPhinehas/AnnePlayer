@@ -1,0 +1,6 @@
+framework module AnnePlayer {
+  umbrella header "AnnePlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
